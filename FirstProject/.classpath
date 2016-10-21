@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/debug/mysql-connector-java-5.0.8-bin-g.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/src/lib/ant-contrib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/src/lib/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/src/lib/aspectjtools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/src/lib/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/src/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/src/lib/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/src/lib/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/src/lib/jta-spec1_0_1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/src/lib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rcherukuri/workspace/FirstProject/lib/mysql-connector-java-5.0.8/src/lib/log4j-1.2.9.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
